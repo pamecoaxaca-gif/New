@@ -1,8 +1,8 @@
 toml
-app = "newfly"
+app = "newflynn"
 
 [env]
-  WEBHOOK_URL = "https://newfly.fly.dev"
+  WEBHOOK_URL = "https://newflynn.fly.dev"
   GENERIC_TIMEZONE = "America/Mexico_City"
 
 [http_service]
